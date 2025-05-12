@@ -14,7 +14,7 @@
             <li><a href="#services">Xizmatlar</a></li>
             <li><a href="#contact">Aloqa</a></li>
         </ul>
-    </nav>
+    </nav> 
 
     <section id="home" class="fade-in">
         <div class="hero">
